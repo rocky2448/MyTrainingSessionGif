@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyTrainingSessionGif</string>
+    <string name="slogan">Преврати пот в мечту, стань лучшей версией себя!</string>
+    <string name="edit_text_exercises">Введите название упражнения</string>
+    <string name="button_start_exercises">Переход к тренировке</string>
+    <string name="hint_exercises">(отжимание, пресс, приседание, планка, ножницы)</string>
+    <string name="toolbarMain">Тренировки по фитнесу</string>
+    <string name="by_rocky">by Rocky</string>
+    <string name="beginning_training">Начало тренировки</string>
+    <string name="start_training">Начать тренировку</string>
+    <string name="name_exercise">Название упражнения</string>
+    <string name="description_exercise">Описание</string>
+    <string name="timer">0:00</string>
+    <string name="next_button">Выбрать другое упражнение</string>
+    <string name="menu_exit">exit</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="toolbar_background">#4ECC4E</color>
+    <color name="background">#B3FFBB</color>
+    <color name="button_startExercises">#024B0D</color>
+</resources>
